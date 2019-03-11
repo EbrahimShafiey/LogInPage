@@ -1,0 +1,15 @@
+C:\Users\EbrahimShafiey\source\repos\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe.config
+C:\Users\EbrahimShafiey\source\repos\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe
+C:\Users\EbrahimShafiey\source\repos\WpfApp11\WpfApp11\bin\Debug\WpfApp11.pdb
+C:\Users\EbrahimShafiey\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csprojAssemblyReference.cache
+C:\Users\EbrahimShafiey\source\repos\WpfApp11\WpfApp11\obj\Debug\MainWindow.g.cs
+C:\Users\EbrahimShafiey\source\repos\WpfApp11\WpfApp11\obj\Debug\App.g.cs
+C:\Users\EbrahimShafiey\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.cache
+C:\Users\EbrahimShafiey\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.lref
+C:\Users\EbrahimShafiey\source\repos\WpfApp11\WpfApp11\obj\Debug\MainWindow.baml
+C:\Users\EbrahimShafiey\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.g.resources
+C:\Users\EbrahimShafiey\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.Properties.Resources.resources
+C:\Users\EbrahimShafiey\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.GenerateResource.cache
+C:\Users\EbrahimShafiey\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CoreCompileInputs.cache
+C:\Users\EbrahimShafiey\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.exe
+C:\Users\EbrahimShafiey\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.pdb
